@@ -1,0 +1,8 @@
+{
+  "name": "Soundcheck Maze",
+  "description": "Direct your bandmate through a recording studio maze to collect vinyl records, microphones, and platinum awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
